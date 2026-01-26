@@ -40,3 +40,6 @@ Currently under development.
  
  ## Development Workflow
 This project follows a feature-branch based development workflow with protected main branch and pull-request reviews.
+
+## Project Status
+Work in Progress — backend logic and rule engine under active development.
