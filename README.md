@@ -36,4 +36,7 @@ Currently under development.
   - Ashwin Yadav  
   - Sweta Raj  
   - Nadeem Ahmad  
-  - Ayush Raj  
+  - Ayush Raj
+ 
+ ## Development Workflow
+This project follows a feature-branch based development workflow with protected main branch and pull-request reviews.
